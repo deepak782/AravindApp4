@@ -70,7 +70,7 @@ public class AlertActivity extends AppCompatActivity {
         Button confirm=root.findViewById(R.id.confirm);
         TextView username=root.findViewById(R.id.User_text);
 
-        username.setText(""+s+" Please Share your loaction");
+        username.setText(""+s+" Please Share your loaction ukiio");
 
         cancel.setOnClickListener(new View.OnClickListener() {
             @Override
